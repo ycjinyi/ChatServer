@@ -1,0 +1,2 @@
+# ChatServer
+基于muduo库、MySQL和redis消息队列的集群聊天服务器和客户端程序，由nginx 实现tcp负载均衡
