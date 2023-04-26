@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/ycjinyi/2023/ClusterChat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ycjinyi/2023/ClusterChat/include -I/home/ycjinyi/2023/ClusterChat/thirdparty -I/home/ycjinyi/2023/ClusterChat/include/server -I/home/ycjinyi/2023/ClusterChat/include/server/db -I/home/ycjinyi/2023/ClusterChat/include/server/model -I/home/ycjinyi/2023/ClusterChat/include/server/redis -g -g -o CMakeFiles/chatServer.dir/chatserver.cpp.o -c /home/ycjinyi/2023/ClusterChat/src/server/chatserver.cpp",
+  "file": "/home/ycjinyi/2023/ClusterChat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/ycjinyi/2023/ClusterChat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ycjinyi/2023/ClusterChat/include -I/home/ycjinyi/2023/ClusterChat/thirdparty -I/home/ycjinyi/2023/ClusterChat/include/server -I/home/ycjinyi/2023/ClusterChat/include/server/db -I/home/ycjinyi/2023/ClusterChat/include/server/model -I/home/ycjinyi/2023/ClusterChat/include/server/redis -g -g -o CMakeFiles/chatServer.dir/chatservice.cpp.o -c /home/ycjinyi/2023/ClusterChat/src/server/chatservice.cpp",
+  "file": "/home/ycjinyi/2023/ClusterChat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/ycjinyi/2023/ClusterChat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ycjinyi/2023/ClusterChat/include -I/home/ycjinyi/2023/ClusterChat/thirdparty -I/home/ycjinyi/2023/ClusterChat/include/server -I/home/ycjinyi/2023/ClusterChat/include/server/db -I/home/ycjinyi/2023/ClusterChat/include/server/model -I/home/ycjinyi/2023/ClusterChat/include/server/redis -g -g -o CMakeFiles/chatServer.dir/main.cpp.o -c /home/ycjinyi/2023/ClusterChat/src/server/main.cpp",
+  "file": "/home/ycjinyi/2023/ClusterChat/src/server/main.cpp"
+},
+{
+  "directory": "/home/ycjinyi/2023/ClusterChat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ycjinyi/2023/ClusterChat/include -I/home/ycjinyi/2023/ClusterChat/thirdparty -I/home/ycjinyi/2023/ClusterChat/include/server -I/home/ycjinyi/2023/ClusterChat/include/server/db -I/home/ycjinyi/2023/ClusterChat/include/server/model -I/home/ycjinyi/2023/ClusterChat/include/server/redis -g -g -o CMakeFiles/chatServer.dir/db/db.cpp.o -c /home/ycjinyi/2023/ClusterChat/src/server/db/db.cpp",
+  "file": "/home/ycjinyi/2023/ClusterChat/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/ycjinyi/2023/ClusterChat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ycjinyi/2023/ClusterChat/include -I/home/ycjinyi/2023/ClusterChat/thirdparty -I/home/ycjinyi/2023/ClusterChat/include/server -I/home/ycjinyi/2023/ClusterChat/include/server/db -I/home/ycjinyi/2023/ClusterChat/include/server/model -I/home/ycjinyi/2023/ClusterChat/include/server/redis -g -g -o CMakeFiles/chatServer.dir/model/friendmodel.cpp.o -c /home/ycjinyi/2023/ClusterChat/src/server/model/friendmodel.cpp",
+  "file": "/home/ycjinyi/2023/ClusterChat/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/ycjinyi/2023/ClusterChat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ycjinyi/2023/ClusterChat/include -I/home/ycjinyi/2023/ClusterChat/thirdparty -I/home/ycjinyi/2023/ClusterChat/include/server -I/home/ycjinyi/2023/ClusterChat/include/server/db -I/home/ycjinyi/2023/ClusterChat/include/server/model -I/home/ycjinyi/2023/ClusterChat/include/server/redis -g -g -o CMakeFiles/chatServer.dir/model/offlinemsgmodel.cpp.o -c /home/ycjinyi/2023/ClusterChat/src/server/model/offlinemsgmodel.cpp",
+  "file": "/home/ycjinyi/2023/ClusterChat/src/server/model/offlinemsgmodel.cpp"
+},
+{
+  "directory": "/home/ycjinyi/2023/ClusterChat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ycjinyi/2023/ClusterChat/include -I/home/ycjinyi/2023/ClusterChat/thirdparty -I/home/ycjinyi/2023/ClusterChat/include/server -I/home/ycjinyi/2023/ClusterChat/include/server/db -I/home/ycjinyi/2023/ClusterChat/include/server/model -I/home/ycjinyi/2023/ClusterChat/include/server/redis -g -g -o CMakeFiles/chatServer.dir/model/usermodel.cpp.o -c /home/ycjinyi/2023/ClusterChat/src/server/model/usermodel.cpp",
+  "file": "/home/ycjinyi/2023/ClusterChat/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/ycjinyi/2023/ClusterChat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ycjinyi/2023/ClusterChat/include -I/home/ycjinyi/2023/ClusterChat/thirdparty -I/home/ycjinyi/2023/ClusterChat/include/server -I/home/ycjinyi/2023/ClusterChat/include/server/db -I/home/ycjinyi/2023/ClusterChat/include/server/model -I/home/ycjinyi/2023/ClusterChat/include/server/redis -g -g -o CMakeFiles/chatServer.dir/redis/redis.cpp.o -c /home/ycjinyi/2023/ClusterChat/src/server/redis/redis.cpp",
+  "file": "/home/ycjinyi/2023/ClusterChat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/ycjinyi/2023/ClusterChat/build/src/client",
+  "command": "/usr/bin/g++  -I/home/ycjinyi/2023/ClusterChat/include -I/home/ycjinyi/2023/ClusterChat/thirdparty -I/home/ycjinyi/2023/ClusterChat/include/server -I/home/ycjinyi/2023/ClusterChat/include/server/db -I/home/ycjinyi/2023/ClusterChat/include/server/model -I/home/ycjinyi/2023/ClusterChat/include/server/redis -g -g -o CMakeFiles/chatClient.dir/main.cpp.o -c /home/ycjinyi/2023/ClusterChat/src/client/main.cpp",
+  "file": "/home/ycjinyi/2023/ClusterChat/src/client/main.cpp"
+}
+]
